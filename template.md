@@ -9,7 +9,8 @@ Recipe description goes here.
 - Cook time : [1 hour]
 - Total time : [1 hour 30 min]
 - Yield : [1 thing (8 servings)]
-- (if not original) Adapted from / Inspired by : [URL/Book by Author]
+- Difficulty Level: 1|2|3|4|5
+- Adapted from / Inspired by : (if not original) [URL/Book by Author]
 
 ## Ingredients
 
