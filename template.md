@@ -1,22 +1,24 @@
 # Recipe Title
 
-- preparation time
-- cooking time
-- total time
-- (adapted/inspired from URL/Book, if not original)
+Recipe description goes here.
+
+- Prep time : [30 min]
+- Cook time : [1 hour]
+- Total time : [1 hour 30 min]
+- Yield : [1 thing (8 servings)]
+- (if not original) Adapted from / Inspired by : [URL/Book by Author]
 
 ## Ingredients
 
-- Ingredient name (measurement)
+- [Ingredient name] : [measurement / number of units]
 - …
 
 ## Directions 
 
 Introduction to instructions go here.
 
-1. Instruction step
-1. …
+Individual instructions go here.
 
 ## Notes
 
-Anything else worth stating goes here
+Anything else worth stating goes here.
